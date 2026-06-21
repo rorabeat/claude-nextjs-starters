@@ -22,7 +22,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Claude Next.js Starter yes",
-  description: "A modern web starter kit with Next.js 16, shadcn/ui, and Tailwind CSS v4",
+  description: "A modern web expert kit with Next.js 16, shadcn/ui, and Tailwind CSS v4",
 };
 
 export default function RootLayout({
