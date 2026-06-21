@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Claude Next.js Starter",
+  title: "Claude Next.js Starter yes",
   description: "A modern web starter kit with Next.js 16, shadcn/ui, and Tailwind CSS v4",
 };
 
