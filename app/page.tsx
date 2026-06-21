@@ -29,7 +29,7 @@ import { Checkbox } from "@/components/ui/checkbox"
 import { AlertCircle, Copy, Info } from "lucide-react"
 
 const formSchema = z.object({
-  name: z.string().min(2, "이름은 최소 2자 이상이어야 합니다."),
+  name: z.string().min(2, "이름은 최소 5자 이상이어야 합니다."),
   email: z.string().email("유효한 이메일을 입력하세요."),
   subject: z.string().min(1, "주제를 선택해주세요."),
   subscribe: z.boolean(),
